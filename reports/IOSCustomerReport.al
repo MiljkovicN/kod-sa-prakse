@@ -16,6 +16,7 @@ report 60314 IOSCustomer
         {
             PrintOnlyIfDetail = true;
             RequestFilterFields = "No.";
+
             column(No_; "No.") { }
             column(Name; Name) { }
             column(Address; Address) { }
@@ -23,6 +24,7 @@ report 60314 IOSCustomer
             {
                 DataItemLink = "Customer No." = field("No.");
                 DataItemTableView = sorting("Document No.");
+                RequestFilterFields = "Document Type";
                 column(Document_No_; "Document No.") { }
                 column(Posting_Date; "Posting Date") { }
                 column(Description; Description) { }
