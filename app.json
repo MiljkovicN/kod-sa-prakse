@@ -1,8 +1,8 @@
 {
-  "id": "64a39eaa-a105-4061-9b3e-60bc16e52f0a",
-  "name": "ReportLearning",
-  "publisher": "Default Publisher",
-  "version": "26.0.0.0",
+  "id": "46eafc64-5085-4755-b2f5-e233e2603f2a",
+  "name": "AnotherOne",
+  "publisher": "Microsoft",
+  "version": "24.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -12,7 +12,7 @@
   "logo": "",
   "dependencies": [],
   "screenshots": [],
-  "platform": "24.0.0.0",
+  "platform": "1.0.0.0",
   "application": "24.0.0.0",
   "idRanges": [
     {
