@@ -23,7 +23,7 @@ report 60315 ProcessingOnlyReport
     begin
         Message('Procitanih redova tabele Kupac: %1', counter);
     end;
-
+    //provera
     var
         counter: Integer;
 }
